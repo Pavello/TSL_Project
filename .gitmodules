@@ -1,0 +1,6 @@
+[submodule "TSL_Client"]
+	path = TSL_Client
+	url = https://github.com/Pavello/TSL_Client.git
+[submodule "Server"]
+	path = TSL_Server
+	url = https://github.com/Pavello/TSL_Server.git
