@@ -7,4 +7,4 @@ Technology stack:
 
 App deployed currently under:
 * https://tennis-league-app.herokuapp.com/
-* Swagger IO API: https://tennis-league-app.herokuapp.com/api/
+* Swagger UI API: https://tennis-league-app.herokuapp.com/api/
